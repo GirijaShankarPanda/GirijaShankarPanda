@@ -1,7 +1,7 @@
 # Girija Shankar Panda
    Hey there, I’m @GirijaShankarPanda from India. I’m interested in learning new streams like web development, AI-ML, etc. I’m currently learning JAVA language & DSA as    well. Joining GitHub to explore the coding world and to learn something about everything.
 # My GitHub Stats:
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirijaShankarPanda)](https://github.com/anuraghazra/github-readme-stats)
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirijaShankarPanda&show_icons=true&theme=radical)
 
 - 📫 How to reach me ...
 
