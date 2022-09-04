@@ -3,7 +3,7 @@
 # My GitHub Stats:
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirijaShankarPanda&show_icons=true&theme=radical)
 
-- 📫 How to reach me https://www.linkedin.com/in/girija-shankar-panda-27331923b/
+- 📫 How to reach me [linkedin](https://www.linkedin.com/in/girija-shankar-panda-27331923b/)
 
 <!---
 GirijaShankarPanda/GirijaShankarPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
