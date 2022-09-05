@@ -1,7 +1,9 @@
 <h1 align="center">Hi there👋, I'm Girija Shankar Panda</h1>
-<h3 align="center">Hey there, I’m a CSE undergraduate from India. I’m interested in learning new skills like web development, AI-ML, etc. & currently working on Web-Development projects Joining GitHub to explore the programming world and to learn something about everything.</h3>
+<h3 align="left">Hey, I’m a CSE undergraduate from India. I’m interested in learning new skills like web development, AI-ML, etc. & currently working on Web-Development projects. Joining GitHub to explore the programming world and to learn something about everything.</h3>
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/104772357/188414380-f47a59a7-2b35-4ee9-8545-f99106b702df.png">
+
+
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/104772357/188418004-bf920542-27da-45fd-bd21-16072f29edc0.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girijashankarpanda&label=Profile%20views&color=0e75b6&style=flat" alt="girijashankarpanda" /> </p>
 
@@ -12,9 +14,9 @@
 
 - 💬 Ask me about **Java, Frontend & Backend**
 
-- 📝 All of my projects are available at [GitHub](https://github.com/GirijaShankarPanda)
+- 📝 All of my projects are available at: [GitHub](https://github.com/GirijaShankarPanda)
 
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/girija-shankar-panda-27331923b/)
+- 📫 You can also reach me through: [Linkedin](https://www.linkedin.com/in/girija-shankar-panda-27331923b/)
 
 <h2 align="left">GitHub Profile Trophy:</h2>
 
@@ -39,6 +41,8 @@
 # My GitHub Stats:
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GirijaShankarPanda&show_icons=true&theme=radical)
 
+# Fun Fact:
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 <!---
 GirijaShankarPanda/GirijaShankarPanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
