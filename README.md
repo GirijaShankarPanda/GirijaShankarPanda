@@ -1,6 +1,7 @@
 <h1 align="center">Hi there👋, I'm Girija Shankar Panda</h1>
 <h3 align="center">Hey there, I’m a CSE undergraduate from India. I’m interested in learning new skills like web development, AI-ML, etc. & currently working on Web-Development projects Joining GitHub to explore the programming world and to learn something about everything.</h3>
-<img align="right" alt="Coding" width="400" src="">
+
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/104772357/188414380-f47a59a7-2b35-4ee9-8545-f99106b702df.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girijashankarpanda&label=Profile%20views&color=0e75b6&style=flat" alt="girijashankarpanda" /> </p>
 
