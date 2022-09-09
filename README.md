@@ -2,7 +2,7 @@
 
 ![Developer Banner](https://user-images.githubusercontent.com/104772357/188424608-6b2d0f5e-5810-4029-b0dd-10f53e0b5b04.gif)
 
-## Hey there✋, 
+### Hey there✋, 
 I’m a CSE undergraduate from India. I’m interested in learning new skills like web development, AI-ML, etc. & currently working on Web-Development projects. Joining GitHub to explore the programming world and to learn something about everything.
 
 > “The things you regret most in life are the things you didn't do.” - Steve Jobs
