@@ -61,7 +61,7 @@ Since 2021, I've had a chance to make this world little better through code & I'
 </table>
 
 
-### &raquo; Fun Fact:
+## &raquo; Fun Fact:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <div align="center"> 
