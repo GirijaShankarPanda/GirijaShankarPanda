@@ -43,17 +43,13 @@ Since 2021, I've had a chance to make this world little better through code & I'
 <p align="left"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="java"/><p/>
 <p align="left"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows"/> <a href="https://github.com/GirijaShankarPanda" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github"/> </a> <a href="https://www.hackerrank.com/girijashankarpa1" target="_blank"> <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="hackerrank"/> </a> <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="eclipse"/> <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt"vscode"/> </p>
 
- <tr>
-<td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=GirijaShankarPanda&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Girija Shankar Panda" /></td>
-  </tr>
-
-
+ 
 ## &raquo; My GitHub Stats:
 
 <table>
  <tr>
  
-<td><img src="https://github-readme-stats.vercel.app/api?username=GirijaShankarPanda&include_all_commits=true&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Girija Shankar Panda" /></td>
+ <td><img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GirijaShankarPanda&theme=radical"></td>
 
 <td><img src="http://github-readme-streak-stats.herokuapp.com?user=GirijaShankarPanda&theme=dark" alt="streak-stats" /></td>
  
@@ -63,6 +59,14 @@ Since 2021, I've had a chance to make this world little better through code & I'
 
 ## &raquo; Fun Fact:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+<hr>
+
+<p align="center">
+  <img src="https://github.com/GirijaShankarPanda/GirijaShankarPanda/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+<hr>
 
 <div align="center"> 
 
