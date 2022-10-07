@@ -49,8 +49,6 @@ Since 2021, I've had a chance to make this world little better through code & I'
 <table>
  <tr>
  
- <td><img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=GirijaShankarPanda&theme=radical"></td>
-
 <td><img src="http://github-readme-streak-stats.herokuapp.com?user=GirijaShankarPanda&theme=dark" alt="streak-stats" /></td>
  
  </tr>
