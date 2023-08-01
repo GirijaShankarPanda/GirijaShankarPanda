@@ -49,13 +49,13 @@ Since 2021, I've had a chance to make this world little better through code & I'
 <table>
  <tr>
  
-<td><img src="http://github-readme-streak-stats.herokuapp.com?user=GirijaShankarPanda&theme=merko" alt="streak-stats" /></td>
+<td><img src="http://github-readme-streak-stats.herokuapp.com?user=GirijaShankarPanda&theme=nightowl" alt="streak-stats" /></td>
 
- <td><img src="https://github-readme-stats.vercel.app/api?username=GirijaShankarPanda&show_icons=true&theme=merko"></td>
+ <td><img src="https://github-readme-stats.vercel.app/api?username=GirijaShankarPanda&theme=nightowl&show_icons=true"></td>
  </tr>
  </table>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirijaShankarPanda&theme=radical&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirijaShankarPanda&theme=nightowl&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## &raquo; Fun Fact:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
