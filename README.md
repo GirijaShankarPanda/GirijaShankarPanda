@@ -4,7 +4,7 @@
 
 
 ### Hey there✋, 
-I’m <b>Girija</b>, a CSE undergraduate from <b>India</b>. As of now, I’m interested in learning new skills like <b>web development, AI-ML,</b> etc. & currently working on <b>Web-Development</b> projects. Joining GitHub to explore the programming world and to learn something about everything.
+I’m <b>Girija</b>, a CSE undergraduate from <b>India</b>. As of now, I’m interested in learning new skills like <b>web development, AI-ML,</b> etc. & currently working on <b>Web-Development & AI-ML</b> projects. Joining GitHub to explore the programming world and to learn something about everything.
 
 > “The things you regret most in life are the things you didn't do.” - Steve Jobs
 
@@ -18,9 +18,9 @@ Since 2021, I've had a chance to make this world little better through code & I'
 ## &raquo; More about me:
 - ✍️ I've recently learned **Java & DSA**
 
-- 👨‍💻 I’m currently learning about **Web-Development**
+- 👨‍💻 I’m currently learning about **Machine Learning & Artificial Intelligence.**
 
-- 💬 Ask me about **Java, Frontend & Backend**
+- 💬 Ask me about **Java, Frontend & Backend, Python**
 
 - 📝 All of my projects are available at: [GitHub](https://github.com/GirijaShankarPanda)
 
