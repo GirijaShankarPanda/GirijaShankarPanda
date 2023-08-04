@@ -55,7 +55,7 @@ Since 2021, I've had a chance to make this world little better through code & I'
  </tr>
  </table>
  
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirijaShankarPanda&theme=nightowl&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirijaShankarPanda&langs_count=8&theme=nightowl)
 
 ## &raquo; Fun Fact:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
