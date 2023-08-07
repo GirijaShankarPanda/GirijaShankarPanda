@@ -16,11 +16,31 @@ Since 2021, I've had a chance to make this world little better through code & I'
 
 
 ## &raquo; More about me:
-- ✍️ I've recently learned **Java & DSA**
 
-- 👨‍💻 I’m currently learning about **Machine Learning & Artificial Intelligence.**
-
-- 💬 Ask me about **Java, Frontend & Backend, Python**
+```python
+girija = {
+    "pronouns": "He" | "Him",
+    "lang": ["Python", "Java", "HTML", "Javascript"],
+    "askMeAbout": ["web dev", "AI", "ML"],
+    "technologies": {
+        "machineLearning": {
+            "py": ["TensorFlow", "Matplotlib", "Pandas", "Numpy", "Scikit-learn"]
+        },
+        "webSite": {
+            "native": ["Web Development"]
+        },
+        "ide": {
+            "java": ["Eclipse"],
+            "py": ["Jupyter", "VisualStudio"],
+            "js": ["VisualStudio"]
+        },
+        "databases": ["mongo", "MySql"]
+    },
+    "platforms": ["GitHub", "Linkedin", "Twitter"],
+    "currentFocus": "On AI and Machine Learning",
+    "funFact": "There are 10 kinds of people in the world, those who understand binary and those who don’t."
+}
+```
 
 - 📝 All of my projects are available at: [GitHub](https://github.com/GirijaShankarPanda)
 
