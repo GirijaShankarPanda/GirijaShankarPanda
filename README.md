@@ -69,13 +69,13 @@ girija = {
 <table>
  <tr>
  
-<td><img src="http://github-readme-streak-stats.herokuapp.com?user=GirijaShankarPanda&theme=nightowl" alt="streak-stats" /></td>
+<td><img src="http://github-readme-streak-stats.herokuapp.com?user=GirijaShankarPanda&theme=tokyonight" alt="streak-stats" /></td>
 
- <td><img src="https://github-readme-stats.vercel.app/api?username=GirijaShankarPanda&theme=nightowl&show_icons=true"></td>
+ <td><img src="https://github-readme-stats.vercel.app/api?username=GirijaShankarPanda&theme=tokyonight&show_icons=true"></td>
  </tr>
  </table>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirijaShankarPanda&langs_count=8&theme=nightowl)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GirijaShankarPanda&langs_count=8&theme=tokyonight)
 
 ## &raquo; Fun Fact:
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
