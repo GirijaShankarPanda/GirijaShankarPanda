@@ -53,7 +53,7 @@ girija = {
 <h3 align="left">&raquo; Connect with me around the web🌍:</h3>
 
 <p align="left">
-<a href="https://twitter.com/iamgirija_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
+<a href="https://twitter.com/itsmedeva_" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
 <a href="https://www.linkedin.com/in/girija-shankar-panda-27331923b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 <a href="https://instagram.com/officially_devs" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
 
