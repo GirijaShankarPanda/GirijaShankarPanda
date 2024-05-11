@@ -4,7 +4,7 @@
 
 
 ### Hey there✋, 
-I’m <b>Girija</b>, a CSE undergraduate from <b>India</b>. As of now, I’m interested in learning new skills like <b>web development, AI-ML,</b> etc. & currently working on <b>Web-Development & AI-ML</b> projects. Joining GitHub to explore the programming world and to learn something about everything.
+I’m <b>Girija</b>, a CSE undergraduate from <b>India</b>. As of now, I’m interested in learning new skills like <b>web development, AI-ML,</b> etc. & currently working on <b>Full Stack Web-Development & AI-ML</b> projects. Joining GitHub to explore the programming world and to learn something about everything.
 
 > “The things you regret most in life are the things you didn't do.” - Steve Jobs
 
