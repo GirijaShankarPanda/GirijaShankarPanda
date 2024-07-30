@@ -75,7 +75,7 @@ girija = {
  </tr>
  </table>
  <div>
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GirijaShankarPanda&radius=15&hide_border=true&theme=radical" width="70%">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GirijaShankarPanda&radius=15&hide_border=true&theme=radical" width="70%" height="40%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GirijaShankarPanda&langs_count=8&theme=tokyonight" width="26%"/>
 </div>
 
