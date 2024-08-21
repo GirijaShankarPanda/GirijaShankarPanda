@@ -14,6 +14,7 @@ Since 2021, I've had a chance to make this world little better through code & I'
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girijashankarpanda&label=Profile%20views&color=0e75b6&style=flat" alt="girijashankarpanda" /> </p>
 
+### [`Resume`](https://github.com/GirijaShankarPanda/Resume-GirijaShankarPanda)
 
 ## &raquo; More about me:
 
